@@ -25,7 +25,7 @@ The file is organized in a specific format, with each task represented as a line
 ## How to Run the Program
 1. *Clone the repository*:
     sh
-    git clone https://github.com/Yassine5466/todo_project
+    git clone https://github.com/githubuser-blip/MaryamRespository/edit/main/README.md
     
 
 2. *Make the script executable*:
